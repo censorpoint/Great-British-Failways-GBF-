@@ -6,6 +6,7 @@ Number Designation = Last 3 digit of the year it released + Number of trains rel
 
 NER 1001 Class = 		GBF 5F	=	8521xxx	
 GWR 4-2-2 "Iron Duke" = 	GBF 4MT	=	8472xxx
+LNWR DX Goods =			GBF 4F	=	8581xxx
 
 Scrapped/Crashed
 
